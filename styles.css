@@ -1,7 +1,15 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
+    background-image: url('./cards/bg-casino.jpg');
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
+
+
 
 #dealer-cards img {
     height: 175px;
